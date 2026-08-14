@@ -1,11 +1,17 @@
-## Olá Pessoal, tudo bem? 👋
 
-📍 Brasília, Brasil 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3500&pause=1200&color=8B5CF6&center=true&vCenter=true&width=800&lines=Ol%C3%A1%2C+eu+sou+Thiago+Santos!;Desenvolvedor+Full+Stack;Estudante+de+Engenharia+de+Software;Sempre+aprendendo+algo+novo+%F0%9F%9A%80" alt="Typing SVG" />
+</p>
+
+# 👋 Bem-vindo ao meu perfil!
+
+📍 Distrito Federal, Brasil 
 
 📚 Estudante Full-Stack Web
 
 ✉️ thiagoncsantos0@gmail.com
 
+<br>
 
 ## 💻 Tecnologias
 
@@ -33,6 +39,7 @@
   <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
 </p>
 
+<br>
 
 ## 🌐 Redes Sociais
 
@@ -51,3 +58,7 @@
 </a>
 
 </p>
+
+<br>
+
+
